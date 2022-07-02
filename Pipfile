@@ -11,6 +11,8 @@ pandas = "==1.4.3"
 numpy = "==1.23.0"
 earthengine-api = "==0.1.316"
 folium = "==0.12.1"
+seaborn = "==0.11.2"
+matplotlib = "==3.5.2"
 
 [dev-packages]
 
