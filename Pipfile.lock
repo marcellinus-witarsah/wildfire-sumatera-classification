@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "da5d94ea3fcb77b4a9631ce965182558ce78240c95768fce7e7dfe68c4248696"
+            "sha256": "d4b70df92dd1681ea68709094fa7d27373de9c9f90ce9d9eb55a69258afd4226"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -326,6 +326,13 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==0.4.0"
+        },
+        "gdal": {
+            "hashes": [
+                "sha256:47e49a1833b7db6821bf6bad875f095bdbcba83383d9e77db557854626b55940"
+            ],
+            "path": "C:/Users/USER/Downloads/GDAL-3.4.3-cp38-cp38-win_amd64.whl",
+            "version": "==3.4.3"
         },
         "google-api-core": {
             "hashes": [
